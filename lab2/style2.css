@@ -1,0 +1,84 @@
+
+.navbar ,
+.btn{
+    background-color: rgb(42, 69, 89) !important ;
+  
+}
+.navbar i, .logo_text{
+  color: white !important;
+}
+
+
+.profile_image img{
+    border-radius: 50%;
+    width: 10%;
+     float:right;
+
+}
+.card .person_image{
+    border-radius: 50%;
+    width: 50%;
+    align-self: center;
+}
+.card i{
+    color:rgb(69, 111, 141);
+}
+.card ul li,
+.post_react,
+.post_react .btn{
+    align-self: flex-start;
+    border: transparent;
+}
+.post
+{
+    align-self: flex-start;
+}
+.card{
+    border-radius: 0% !important;
+}
+.card button i ,
+.btn {
+    color: white;
+    border-radius: 0% !important;
+}
+
+
+.info_button{
+    width: 100%;
+    background-color:lightslategray !important ; 
+    
+}
+.subscribes ,
+.subscribes ul li{
+    background-color: lightslategray;
+    color: white;
+    border: transparent;
+}
+
+.labels .label2{
+    background-color: rgb(59, 75, 86) !important ;
+    
+}
+.labels .label3{
+       background-color: rgb(69, 80, 87) !important ;
+}
+.labels .label4{
+     background-color: rgb(105, 119, 129) !important ;
+      color: black;
+}
+.labels .label5{
+     background-color: rgb(147, 160, 169) !important ;
+      color: black;
+}
+.labels .label6{
+     background-color:white !important ;
+     color: black;
+}
+.green{
+    background-color: green !important;
+    opacity: 0.25;
+}
+.red{
+    background-color: red !important;
+    opacity: 0.25;
+}

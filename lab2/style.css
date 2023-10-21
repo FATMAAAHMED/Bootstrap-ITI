@@ -1,0 +1,23 @@
+
+:root{
+    --main-color:#098a7d;
+}
+.progress-bar ,
+.btn{
+    background-color: var(--main-color) !important;
+    color: aliceblue !important;
+}
+
+i{
+    color: var(--main-color);
+    font-size: 25px;
+}
+
+footer .row .col-12{
+    background-color: var(--main-color);
+    color:white;
+    text-align: center;
+}
+footer .row .col-12 i{
+    color: white;
+}

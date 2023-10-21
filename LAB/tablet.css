@@ -1,0 +1,33 @@
+.row {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+.row .col-4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.row .col-4 {
+    flex-basis: 100%;
+}
+.row .col-4 .menu ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+ .col-12 .row{
+    display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        overflow: hidden;
+ }
+.col-12{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

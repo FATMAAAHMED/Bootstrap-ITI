@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: stretch;
+    flex-wrap: nowrap; */
+}
+
+.row .col1{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.row .col1 ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.row .col2 .row2{
+    display: flex;
+    flex-direction: column;
+}
